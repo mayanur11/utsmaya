@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">utsmaya</string>
+    //String name ditampilkan pada bagian nama aplikasi yaitu bagian paling atas
+    <string name="affirmation0">Selamat Datang Di Aplikasi UTDI</string>>
+        <string name="affirmation1">Dosen UTDI Beri Motivasi Siswa SMA N 1 Sewon</string>
+        <string name="affirmation2">Kuliah di UTDI Bisa Kuasai Bidang Perpajakan</string>
+        <string name="affirmation3">Penerimaan Mahasiswa Baru 2022/2023</string>
+        <string name="affirmation4">Pentingnya Portofolio Bagi Mahasiswa Jurusan IT</string>
+        <string name="affirmation5">6 Alasan Cerdas Kuliah di UTDI</string>
+        <string name="affirmation6">UTDI Adakan kerja sama dengan MGBK SMA/MA Gunung Kidul</string>
+        <string name="affirmation7">Daftar PMB dari Rumah Bisa Banget!</string>
+        <string name="affirmation8">Metaverse</string>
+        <string name="affirmation9">Tatap Muka Terbatas</string>
+        <string name="affirmation10">Pendaftaran Bisa Dengan Nilai Raport!</string>
+
+//Resource string untuk ditampilkan sebagai afirmasi dalam aplikasi
+    //Sumber data untuk memberikan daftar afirmasi ke aplikasi
+</resources>
